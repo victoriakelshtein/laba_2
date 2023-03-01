@@ -7,4 +7,4 @@ elif n % 2:
 else:
     print("ваше место в купе сверху")
 
-if range: [36, 54]
+if range [36, 54]:
